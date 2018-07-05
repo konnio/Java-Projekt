@@ -1,0 +1,6 @@
+autor; tytul; wydawca; rok; ISBN; liczbaStron; czy wypozyczona; czy zarezerwowana; data wypozyczenia; typ;
+Adam Mickiewicz; Pan Tadeusz; Wroclaw; 1984; 0003232453; 300; true; false; 26-03-2018; Klasyka;
+Władysław Reymont; Chłopi; Bydgoszcz; 1967; 299211231; 430; false; false; ; Klasyka;
+Andrzej Sapkowski; Wiedźmin; Warszawa; 1990; 299211232; 300; true; false; 05-01-2018; Fantastyka;
+Andrzej Sapkowski; Ostatnie życzenie; Warszawa; 1990; 299211232; 300; false; true; ;Fantastyka;
+Jakis historyk; Historia Polski; Kraków; 1900; 123123123; 500; false; ; ; Historyczna;
